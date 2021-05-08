@@ -1,7 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CameraExample/app/src/main/java/com/example/cameraexample/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/CameraExample/app/src/main/java/com/example/cameraexample/MainActivity.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1sFGBmcK2BQPhTrX32XS6qv8We1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="D:/Programing/myapp" />
-    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="" />
+      <created>1620460790447</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620460790447</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Initialize 05.08">
+      <created>1620460914319</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1620460914319</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initialize 05.08" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initialize 05.08" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="531" y="84" key="CommitChangelistDialog2" timestamp="1620460909700">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="531" y="84" key="CommitChangelistDialog2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620460909700" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1620460835922">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620460835922" />
+    <state x="826" y="417" key="Github.ShareDialog" timestamp="1620461068898">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="826" y="417" key="Github.ShareDialog/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620461068898" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1620460817782">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620460817782" />
   </component>
 </project>
