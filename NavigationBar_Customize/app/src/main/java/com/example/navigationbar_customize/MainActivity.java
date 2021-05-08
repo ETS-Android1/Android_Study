@@ -19,7 +19,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        drawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);
+        drawerLayout = (DrawerLayout) findViewById(R.id.drawer_layout);     //Define DrawerLayout
         drawerView = (View) findViewById(R.id.drawer);
 
         Button openBtn = (Button) findViewById(R.id.openBtn);
