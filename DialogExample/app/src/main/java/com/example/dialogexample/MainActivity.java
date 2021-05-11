@@ -52,6 +52,7 @@ public class MainActivity extends AppCompatActivity {
                 ad.show();
             }
         });
-
     }
+    //End Of Oncreate
 }
+//End Of MainActivity
