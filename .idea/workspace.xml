@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/DialogExample/app/src/main/java/com/example/dialogexample/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/DialogExample/app/src/main/java/com/example/dialogexample/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +70,21 @@
       <option name="project" value="LOCAL" />
       <updated>1620744286998</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="MainActivity Complete">
+      <created>1620744749838</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1620744749838</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Complete Project">
+      <created>1620744868646</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1620744868646</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -79,13 +93,15 @@
     <MESSAGE value="NavigationBar_Customize Complete" />
     <MESSAGE value="DialogExample Update" />
     <MESSAGE value="Recreate Dialog Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Recreate Dialog Project" />
+    <MESSAGE value="MainActivity Complete" />
+    <MESSAGE value="Complete Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Complete Project" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="531" y="33" key="CommitChangelistDialog2" timestamp="1620744286020">
+    <state x="531" y="33" key="CommitChangelistDialog2" timestamp="1620744867703">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="531" y="33" key="CommitChangelistDialog2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620744286020" />
+    <state x="531" y="33" key="CommitChangelistDialog2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620744867703" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1620462818300">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -98,9 +114,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620460817782" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1620732385490">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1620744905724">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620732385490" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620744905724" />
   </component>
 </project>
