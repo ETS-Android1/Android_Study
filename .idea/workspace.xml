@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/ServiceExample/app/src/main/res/raw/healer.mp3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ServiceExample/app/src/main/java/com/example/serviceexample/MusicService.java" beforeDir="false" afterPath="$PROJECT_DIR$/ServiceExample/app/src/main/java/com/example/serviceexample/MusicService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ServiceExample/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ServiceExample/app/src/main/AndroidManifest.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
