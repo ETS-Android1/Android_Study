@@ -22,16 +22,23 @@ public class MusicService extends Service {
         super.onCreate();
 
         mediaPlayer = MediaPlayer.create(this, R.raw.healer);
+        mediaPlayer.setLooping(false);
 
     }
 
     @Override
     public int onStartCommand(Intent intent, int flags, int startId) {
+
+        mediaPlayer.start();
+
         return super.onStartCommand(intent, flags, startId);
     }
 
     @Override
     public void onDestroy() {
+
+        mediaPlayer.stop();
+
         super.onDestroy();
     }
 }
