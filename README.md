@@ -14,4 +14,8 @@
 
 ### 5. Project Name : DialogExample <br>
 #### Dialog Popup Study Project _ Very Simple <br>
-#### But Many commits because of GitHub push errors
+#### But Many commits because of GitHub push errors <br><br><br>
+
+### 6. Project Name : ServiceExample <br>
+#### Backgroun Service Provide Study Project _ Very Simple <br>
+#### Background Music Play Application
