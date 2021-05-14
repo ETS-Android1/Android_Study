@@ -19,72 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="Update After Delete pushTEST Project">
-      <change afterPath="$PROJECT_DIR$/FCMTest/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceExample/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceExample/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceExample/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceExample/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceExample/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceExample/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceExample/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ServiceExample/settings.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VideoRecordExample/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VideoRecordExample/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VideoRecordExample/.idea/gradle.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VideoRecordExample/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VideoRecordExample/build.gradle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VideoRecordExample/gradle.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VideoRecordExample/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VideoRecordExample/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VideoRecordExample/gradlew" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VideoRecordExample/gradlew.bat" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VideoRecordExample/settings.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/FCMTest/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/FCMTest/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FCMTest/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FCMTest/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FCMTest/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FCMTest/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FCMTest/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/google-services.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/proguard-rules.pro" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/androidTest/java/com/example/pushtest/ExampleInstrumentedTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/AndroidManifest.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/java/com/example/pushtest/FirebaseInstanceIDService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/java/com/example/pushtest/FirebaseMessagingService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/java/com/example/pushtest/MainActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/values-night/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/values/colors.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/values/strings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/values/themes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/test/java/com/example/pushtest/ExampleUnitTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/FCMTest/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/FCMTest/gradle.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/FCMTest/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/FCMTest/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/FCMTest/gradlew" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/FCMTest/gradlew.bat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/settings.gradle" beforeDir="false" />
-    </list>
+    <list default="true" id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -186,7 +121,21 @@
       <option name="project" value="LOCAL" />
       <updated>1620964878596</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Update After Delete pushTEST Project">
+      <created>1620972389603</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1620972389603</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Update workspace.xml">
+      <created>1620972547314</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1620972547314</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,16 +158,16 @@
     <MESSAGE value="Recreate Dialog Project" />
     <MESSAGE value="MainActivity Complete" />
     <MESSAGE value="Complete Project" />
-    <MESSAGE value="Update workspace.xml" />
     <MESSAGE value="Initialize pushTEST Project" />
     <MESSAGE value="Update After Delete pushTEST Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update After Delete pushTEST Project" />
+    <MESSAGE value="Update workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update workspace.xml" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="531" y="33" key="CommitChangelistDialog2" timestamp="1620972388542">
+    <state x="531" y="33" key="CommitChangelistDialog2" timestamp="1620972546686">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="531" y="33" key="CommitChangelistDialog2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620972388542" />
+    <state x="531" y="33" key="CommitChangelistDialog2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620972546686" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1620971990750">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -239,10 +188,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620460817782" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1620972433815">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1620972554724">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620972433815" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620972554724" />
     <state x="295" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620971990739">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
