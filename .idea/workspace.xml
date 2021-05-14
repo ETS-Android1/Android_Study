@@ -215,10 +215,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="Update After Delete pushTEST Project" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="531" y="33" key="CommitChangelistDialog2" timestamp="1620964876617">
+    <state x="531" y="33" key="CommitChangelistDialog2" timestamp="1620972388542">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="531" y="33" key="CommitChangelistDialog2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620964876617" />
+    <state x="531" y="33" key="CommitChangelistDialog2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620972388542" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1620971990750">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -231,25 +231,25 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="826" y="417" key="Github.ShareDialog/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620461068898" />
-    <state x="723" y="221" key="RollbackChangesDialog" timestamp="1620971343451">
+    <state x="723" y="221" key="RollbackChangesDialog" timestamp="1620972158523">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="723" y="221" key="RollbackChangesDialog/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620971343451" />
+    <state x="723" y="221" key="RollbackChangesDialog/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620972158523" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1620460817782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620460817782" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1620967453068">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1620972433815">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620967453068" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620972433815" />
     <state x="295" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620971990739">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="295" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620971990739" />
-    <state x="658" y="307" key="git4idea.merge.GitPullDialog" timestamp="1620971971085">
+    <state x="658" y="307" key="git4idea.merge.GitPullDialog" timestamp="1620972406730">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="658" y="307" key="git4idea.merge.GitPullDialog/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620971971085" />
+    <state x="658" y="307" key="git4idea.merge.GitPullDialog/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620972406730" />
   </component>
 </project>
