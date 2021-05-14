@@ -1,11 +1,89 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="">
+    <list default="true" id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="Update After Delete pushTEST Project">
+      <change afterPath="$PROJECT_DIR$/FCMTest/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServiceExample/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServiceExample/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServiceExample/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServiceExample/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServiceExample/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServiceExample/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServiceExample/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ServiceExample/settings.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VideoRecordExample/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VideoRecordExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VideoRecordExample/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VideoRecordExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VideoRecordExample/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VideoRecordExample/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VideoRecordExample/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VideoRecordExample/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VideoRecordExample/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VideoRecordExample/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/VideoRecordExample/settings.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/pushTEST/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/pushTEST/app/google-services.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pushTEST/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/pushTEST/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/FCMTest/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/FCMTest/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FCMTest/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FCMTest/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FCMTest/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FCMTest/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FCMTest/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/google-services.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/proguard-rules.pro" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/androidTest/java/com/example/pushtest/ExampleInstrumentedTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/AndroidManifest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/java/com/example/pushtest/FirebaseInstanceIDService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/java/com/example/pushtest/FirebaseMessagingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/java/com/example/pushtest/MainActivity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/drawable/ic_launcher_background.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/layout/activity_main.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/mipmap-hdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/mipmap-mdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/mipmap-xhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/values-night/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/values/colors.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/values/strings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/main/res/values/themes.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/app/src/test/java/com/example/pushtest/ExampleUnitTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/FCMTest/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/gradle.properties" beforeDir="false" afterPath="$PROJECT_DIR$/FCMTest/gradle.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/FCMTest/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/FCMTest/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/FCMTest/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/FCMTest/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pushTEST/settings.gradle" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,6 +92,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Enterprise09/Android_Study.git" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1sFGBmcK2BQPhTrX32XS6qv8We1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -104,6 +189,18 @@
     <option name="localTasksCounter" value="10" />
     <servers />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initialize 05.08" />
     <MESSAGE value="CameraExample Complete" />
@@ -114,13 +211,18 @@
     <MESSAGE value="Complete Project" />
     <MESSAGE value="Update workspace.xml" />
     <MESSAGE value="Initialize pushTEST Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initialize pushTEST Project" />
+    <MESSAGE value="Update After Delete pushTEST Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update After Delete pushTEST Project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="531" y="33" key="CommitChangelistDialog2" timestamp="1620964876617">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="531" y="33" key="CommitChangelistDialog2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620964876617" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1620971990750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620971990750" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1620462818300">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -129,6 +231,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="826" y="417" key="Github.ShareDialog/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620461068898" />
+    <state x="723" y="221" key="RollbackChangesDialog" timestamp="1620971343451">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="723" y="221" key="RollbackChangesDialog/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620971343451" />
     <state x="461" y="164" key="SettingsEditor" timestamp="1620460817782">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -137,5 +243,13 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620967453068" />
+    <state x="295" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620971990739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="295" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620971990739" />
+    <state x="658" y="307" key="git4idea.merge.GitPullDialog" timestamp="1620971971085">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="658" y="307" key="git4idea.merge.GitPullDialog/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620971971085" />
   </component>
 </project>
