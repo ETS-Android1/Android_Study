@@ -8,9 +8,33 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-    <androidx.drawerlayout.widget.DrawerLayout
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"/>
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/openBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Open"/>
+        <Button
+            android:id="@+id/closeBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Close"/>
+    </LinearLayout>
 
+    <androidx.drawerlayout.widget.DrawerLayout
+        android:id="@+id/drawerContent"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="DrawerLayout"
+            android:gravity="center"
+            android:textStyle="bold"
+            android:textSize="50sp"/>
+    </androidx.drawerlayout.widget.DrawerLayout>
 
 </LinearLayout>

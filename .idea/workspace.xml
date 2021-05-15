@@ -20,7 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LayoutCustomExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutCustomExample/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutCustomExample/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutCustomExample/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutCustomExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutCustomExample/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/res/layout/drawer_content.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/res/layout/drawer_content.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
