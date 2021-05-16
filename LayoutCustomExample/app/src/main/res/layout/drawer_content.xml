@@ -8,24 +8,64 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:padding="5dp"
         android:orientation="horizontal">
         <ImageView
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="4"
             android:src="@mipmap/ic_launcher"/>
         <TextView
             android:layout_width="match_parent"
-            android:layout_height="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
             android:text="DrawerContent"
-            android:textSize="20dp" />
-
+            android:textSize="30sp" />
     </LinearLayout>
-
-    <Button
-        android:id="@+id/menu1"
+    <TextView
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-
-        android:text="Menu1"/>
+        android:padding="5dp"
+        android:text="CATEGORY"
+        android:textSize="25dp"
+        android:textStyle="bold"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="5dp"
+        android:orientation="vertical">
+        <Button
+            android:id="@+id/menu1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:text="Menu1" />
+        <Button
+            android:id="@+id/menu2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:text="Menu2" />
+        <Button
+            android:id="@+id/menu3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:text="Menu3" />
+        <Button
+            android:id="@+id/menu4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="left"
+            android:text="Menu4" />
+    </LinearLayout>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="5dp"
+        android:gravity="bottom|end"
+        android:textStyle="bold"
+        android:textSize="20dp"
+        android:text="Copy Right @Enterprise"/>
 
 </LinearLayout>
