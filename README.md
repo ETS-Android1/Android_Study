@@ -18,4 +18,12 @@
 
 ### 6. Project Name : ServiceExample <br>
 #### Backgroun Service Provide Study Project _ Very Simple <br>
-#### Background Music Play Application
+#### Background Music Play Application <br><br><br>
+
+### 7. Project Name : FCMTest <br>
+#### Study <br>
+#### How to SendPush Notification use Firebase Cloud Service <br><br><br>
+
+### 8. Project Name : LayoutCustomExample <br>
+#### Review Layout Custom <br>
+#### Drawerble Layout, Floating Action Button ... <br><br><br>
