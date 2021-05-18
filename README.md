@@ -1,5 +1,6 @@
 # Android_Study
 ## Initialize 05.08 <br>
+> Minimum SDK Version : Oreo (Android 8) _ Level 26
 ### 1. Project Name : CameraExample <br>
 #### Use Camera Application in my Application <br><br><br>
 
@@ -18,4 +19,12 @@
 
 ### 6. Project Name : ServiceExample <br>
 #### Backgroun Service Provide Study Project _ Very Simple <br>
-#### Background Music Play Application
+#### Background Music Play Application <br><br><br>
+
+### 7. Project Name : FCMTest <br>
+#### Study <br>
+#### How to SendPush Notification use Firebase Cloud Service <br><br><br>
+
+### 8. Project Name : LayoutCustomExample <br>
+#### Review Layout Custom <br>
+#### Drawerble Layout, Floating Action Button ... <br><br><br>
