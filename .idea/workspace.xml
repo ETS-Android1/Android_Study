@@ -19,7 +19,16 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="" />
+    <list default="true" id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/IntroExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroExample/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroExample/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroExample/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IntroExample/app/src/main/res/layout/activity_intro.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntroExample/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/IntroExample/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IntroExample/app/src/main/java/com/example/introexample/IntroActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/IntroExample/app/src/main/java/com/example/introexample/IntroActivity.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,7 +165,21 @@
       <option name="project" value="LOCAL" />
       <updated>1621139648553</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Delete app/IntroExample Project">
+      <created>1621343515663</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1621343515663</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Recreate IntroExample Project">
+      <created>1621343595727</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1621343595727</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -185,13 +208,15 @@
     <MESSAGE value="Get Instance at MainActivity.java" />
     <MESSAGE value="Check NavigationBar_Customize" />
     <MESSAGE value="Update Android_Study Dir File" />
-    <option name="LAST_COMMIT_MESSAGE" value="Update Android_Study Dir File" />
+    <MESSAGE value="Delete app/IntroExample Project" />
+    <MESSAGE value="Recreate IntroExample Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Recreate IntroExample Project" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="531" y="33" key="CommitChangelistDialog2" timestamp="1621139647835">
+    <state x="531" y="33" key="CommitChangelistDialog2" timestamp="1621343594780">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="531" y="33" key="CommitChangelistDialog2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621139647835" />
+    <state x="531" y="33" key="CommitChangelistDialog2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621343594780" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1620971990750">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -212,10 +237,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620460817782" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1621143404060">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1621343604425">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621143404060" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621343604425" />
     <state x="295" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620971990739">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
