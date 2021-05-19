@@ -22,7 +22,7 @@ public class IntroActivity extends AppCompatActivity {
                 Intent i = new Intent(getApplicationContext(), MainActivity.class);
                 startActivity(i);
                 overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
-                //finish();
+                finish();
             }
         };
         handler.postDelayed(r, 2000);
