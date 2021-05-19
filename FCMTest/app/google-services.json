@@ -1,15 +1,15 @@
 {
   "project_info": {
     "project_number": "798380020635",
-    "project_id": "pushtest-60c7a",
-    "storage_bucket": "pushtest-60c7a.appspot.com"
+    "project_id": "fcmtest-60c7a",
+    "storage_bucket": "fcmtest-60c7a.appspot.com"
   },
   "client": [
     {
       "client_info": {
         "mobilesdk_app_id": "1:798380020635:android:70eb7a47b773f50222473e",
         "android_client_info": {
-          "package_name": "com.example.pushtest"
+          "package_name": "com.example.fcmtest"
         }
       },
       "oauth_client": [
