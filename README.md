@@ -28,3 +28,7 @@
 ### 8. Project Name : LayoutCustomExample <br>
 #### Review Layout Custom <br>
 #### Drawerble Layout, Floating Action Button ... <br><br><br>
+
+### 9. Project Name : IntroExample <br>
+#### Made Simple Intro when starting App <br>
+#### Animation Example, Runnable & Handler <br><br><br>
