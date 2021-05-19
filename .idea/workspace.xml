@@ -20,13 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/res/drawable-anydpi/ic_close_icon.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/res/drawable-hdpi/ic_close_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/res/drawable-mdpi/ic_close_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/res/drawable-xhdpi/ic_close_icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/res/drawable-xxhdpi/ic_close_icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/res/layout/drawer_content.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/res/layout/drawer_content.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FCMTest/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/FCMTest/.idea/gradle.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,7 +47,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/LayoutCustomExample" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="SvnConfiguration">
