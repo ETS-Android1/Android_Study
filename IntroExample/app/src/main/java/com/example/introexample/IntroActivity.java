@@ -21,7 +21,8 @@ public class IntroActivity extends AppCompatActivity {
             public void run() {
                 Intent i = new Intent(getApplicationContext(), MainActivity.class);
                 startActivity(i);
-                finish();
+                overridePendingTransition(R.anim.fade_in, R.anim.fade_out);
+                //finish();
             }
         };
         handler.postDelayed(r, 2000);
