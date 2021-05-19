@@ -20,10 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/res/layout/activity_intro.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/res/drawable-anydpi/ic_close_icon.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/res/drawable-hdpi/ic_close_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/res/drawable-mdpi/ic_close_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/res/drawable-xhdpi/ic_close_icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/res/drawable-xxhdpi/ic_close_icon.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/java/com/example/layoutcustomexample/IntroActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/java/com/example/layoutcustomexample/IntroActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/res/layout/drawer_content.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/res/layout/drawer_content.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

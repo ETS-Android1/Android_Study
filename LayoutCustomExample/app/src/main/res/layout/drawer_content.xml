@@ -11,26 +11,41 @@
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
         android:padding="5dp"
         android:orientation="horizontal">
         <ImageView
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            android:layout_weight="4"
-            android:src="@drawable/dog_swim_icon"/>
+            android:layout_weight="2"
+            android:src="@drawable/mario_logo"/>
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:padding="5dp"
             android:orientation="vertical"
             android:layout_weight="1">
-            <TextView
+            <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="match_parent"
-                android:gravity="center_vertical"
-                android:layout_weight="1"
-                android:text="User Info"
-                android:textSize="30sp" />
+                android:layout_height="92dp"
+                android:orientation="horizontal"
+                android:layout_weight="1">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:gravity="center_vertical"
+                    android:layout_weight="1"
+                    android:text="User"
+                    android:textSize="30sp" />
+                <ImageButton
+                    android:id="@+id/drawerCloseBtn"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="#90EDDB"
+                    android:layout_weight="1"
+                    android:src="@drawable/ic_close_icon" />
+            </LinearLayout>
+
             <TextView
                 android:layout_width="match_parent"
                 android:layout_height="match_parent"
@@ -79,13 +94,5 @@
             android:gravity="left"
             android:text="생활용품" />
     </LinearLayout>
-    <!--<TextView
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        android:padding="5dp"
-        android:gravity="bottom|end"
-        android:textStyle="bold"
-        android:textSize="20dp"
-        android:text="Copy Right @Enterprise"/>-->
 
 </LinearLayout>
