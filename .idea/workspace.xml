@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/res/layout/activity_intro.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/java/com/example/layoutcustomexample/IntroActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/LayoutCustomExample/app/src/main/java/com/example/layoutcustomexample/IntroActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +49,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/IntroExample" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/LayoutCustomExample" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="SvnConfiguration">
@@ -214,10 +217,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620971990750" />
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1621392967850">
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1621402777468">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621392967850" />
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621402777468" />
     <state x="826" y="417" key="Github.ShareDialog" timestamp="1620461068898">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
