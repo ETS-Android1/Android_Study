@@ -9,10 +9,12 @@ import android.view.Gravity;
 import android.view.MotionEvent;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageButton;
 
 public class MainActivity extends AppCompatActivity {
 
     DrawerLayout drawerLayout;
+    ImageButton closeIcon;
     View drawerView;
 
     @Override
@@ -47,6 +49,13 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
+        closeIcon = (ImageButton) findViewById(R.id.drawerCloseBtn);
+        closeIcon.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                drawerLayout.closeDrawers();
+            }
+        });
     }
 
     DrawerLayout.DrawerListener listener = new DrawerLayout.DrawerListener() {
