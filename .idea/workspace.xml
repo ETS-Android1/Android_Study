@@ -177,7 +177,28 @@
       <option name="project" value="LOCAL" />
       <updated>1621492270362</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Delete google-services.json">
+      <created>1621496946551</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1621496946551</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Create SpinnerExample Project">
+      <created>1621497155166</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1621497155166</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Open Project">
+      <created>1621497173769</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1621497173769</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -209,21 +230,24 @@
     <MESSAGE value="Delete app/IntroExample Project" />
     <MESSAGE value="Recreate IntroExample Project" />
     <MESSAGE value="Delete FCM Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Delete FCM Project" />
+    <MESSAGE value="Delete google-services.json" />
+    <MESSAGE value="Create SpinnerExample Project" />
+    <MESSAGE value="Open Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Open Project" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="531" y="33" key="CommitChangelistDialog2" timestamp="1621492269590">
+    <state x="531" y="33" key="CommitChangelistDialog2" timestamp="1621497173123">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="531" y="33" key="CommitChangelistDialog2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621492269590" />
+    <state x="531" y="33" key="CommitChangelistDialog2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621497173123" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1620971990750">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620971990750" />
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1621492340239">
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1621497107283">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621492340239" />
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621497107283" />
     <state x="826" y="417" key="Github.ShareDialog" timestamp="1620461068898">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -236,10 +260,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620460817782" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1621492275509">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1621497180993">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621492275509" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621497180993" />
     <state x="295" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620971990739">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
