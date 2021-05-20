@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/LoadingAnimExample/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/LoadingAnimExample/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-    </list>
+    <list default="true" id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -270,10 +268,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620460817782" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1621497835712">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1621498863720">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621497835712" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621498863720" />
     <state x="295" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620971990739">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
