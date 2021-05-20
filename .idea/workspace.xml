@@ -170,7 +170,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621343595727</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Delete FCM Project">
+      <created>1621492270362</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1621492270362</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -201,21 +208,22 @@
     <MESSAGE value="Update Android_Study Dir File" />
     <MESSAGE value="Delete app/IntroExample Project" />
     <MESSAGE value="Recreate IntroExample Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Recreate IntroExample Project" />
+    <MESSAGE value="Delete FCM Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Delete FCM Project" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="531" y="33" key="CommitChangelistDialog2" timestamp="1621343594780">
+    <state x="531" y="33" key="CommitChangelistDialog2" timestamp="1621492269590">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="531" y="33" key="CommitChangelistDialog2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621343594780" />
+    <state x="531" y="33" key="CommitChangelistDialog2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621492269590" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1620971990750">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620971990750" />
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1621402777468">
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1621492340239">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621402777468" />
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621492340239" />
     <state x="826" y="417" key="Github.ShareDialog" timestamp="1620461068898">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -228,10 +236,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620460817782" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1621428594474">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1621492275509">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621428594474" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621492275509" />
     <state x="295" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620971990739">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
