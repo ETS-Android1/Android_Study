@@ -19,7 +19,15 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="" />
+    <list default="true" id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/MusicPlayerExample/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MusicPlayerExample/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MusicPlayerExample/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MusicPlayerExample/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MusicPlayerExample/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MusicPlayerExample/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +52,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Android-SpinKit-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/MusicPlayerExample" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="SvnConfiguration">
@@ -205,7 +213,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621498402032</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Create MP3 Player Project">
+      <created>1621498963653</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1621498963653</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,21 +256,22 @@
     <MESSAGE value="Create SpinnerExample Project" />
     <MESSAGE value="Open Project" />
     <MESSAGE value="Create Loading Animation Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create Loading Animation Project" />
+    <MESSAGE value="Create MP3 Player Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create MP3 Player Project" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="531" y="33" key="CommitChangelistDialog2" timestamp="1621498400192">
+    <state x="531" y="33" key="CommitChangelistDialog2" timestamp="1621498961685">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="531" y="33" key="CommitChangelistDialog2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621498400192" />
+    <state x="531" y="33" key="CommitChangelistDialog2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621498961685" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1620971990750">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620971990750" />
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1621498178716">
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1621516099441">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621498178716" />
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621516099441" />
     <state x="826" y="417" key="Github.ShareDialog" timestamp="1620461068898">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
