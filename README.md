@@ -43,4 +43,4 @@
 
 ### 12. Project Name : MusicPlayerExample <br>
 #### Very Simple Music Plyer Example <br>
-#### Use Music Class <br><br><br>
+#### Use MediaPlayer Class <br><br><br>
