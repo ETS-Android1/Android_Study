@@ -32,3 +32,15 @@
 ### 9. Project Name : IntroExample <br>
 #### Made Simple Intro when starting App <br>
 #### Animation Example, Runnable & Handler <br><br><br>
+
+### 10. Project Name : LoadingAnimExample <br>
+#### Use Github Open Source Animation <br>
+#### How to Use Github Open Source <br><br><br>
+
+### 11. Project Name : SpinnerExample <br>
+#### Simple Spinner Example <br>
+#### How to Use Spinner View <br><br><br>
+
+### 12. Project Name : MusicPlayerExample <br>
+#### Very Simple Music Plyer Example <br>
+#### Use Music Class <br><br><br>
