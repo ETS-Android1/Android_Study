@@ -48,6 +48,6 @@
 ### 13. Project Name : <a href="https://github.com/Enterprise09/Android_Study/tree/master/BottomNavExample"> BottomNavExample </a><br>
 * SNS Bottom Navigation Bar Example <br><br><br>
 
-### 14. Project Name : <a href="https://github.com/Enterprise09/Android_Study/tree/master/ComebackExample"> ComebackExample </a><br>
+### 14. Project Name : <a href="https://github.com/Enterprise09/Android_Study/tree/master/ComeBackExample"> ComeBackExample </a><br>
 * Change Activity with Data <br>
 * Use StartActivityForResult, StartActivity, finish Method <br><br><br>
