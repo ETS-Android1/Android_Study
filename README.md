@@ -2,7 +2,7 @@
 ## Initialize 05.08 <br>
 > Minimum SDK Version : Oreo (Android 8) _ Level 26
 ### 1. Project Name : CameraExample <br>
-#### <a href="./CameraExmaple">Direct Folder</a>
+#### <a href="../CameraExmaple">Direct Folder</a>
 #### Use Camera Application in my Application <br><br><br>
 
 ### 2. Project Name : NavigationBar_ Customize <br>
