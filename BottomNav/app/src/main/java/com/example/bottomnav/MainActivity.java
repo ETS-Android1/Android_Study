@@ -31,10 +31,10 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public boolean onNavigationItemSelected(@NonNull MenuItem item) {
                 switch (item.getItemId()){
-                    case R.id.action_home:
+                    case R.id.action_http:
                         setFrag(0);
                         break;
-                    case R.id.action_http:
+                    case R.id.action_home:
                         setFrag(1);
                         break;
                     case R.id.action_power:
