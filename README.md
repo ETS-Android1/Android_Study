@@ -21,8 +21,8 @@
 * Backgroun Service Provide Study Project _ Very Simple <br>
 * Background Music Play Application <br><br><br>
 
-### 7. Project Name : <a href="https://github.com/Enterprise09/Android_Study/tree/master/FCMTest"> FCMTest </a><br>
-* Study <br>
+### 7. Project Name : FCMTest <br>
+* Study (Deleted Project) <br>
 * How to SendPush Notification use Firebase Cloud Service <br><br><br>
 
 ### 8. Project Name : <a href="https://github.com/Enterprise09/Android_Study/tree/master/LayoutCustomExample"> LayoutCustomExample </a><br>
