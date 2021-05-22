@@ -1,6 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
 
-
+    <item
+        android:id="@+id/action_http"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_https_24"
+        android:title="Lock"/>
+    <item
+        android:id="@+id/action_home"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_home_repair_service_24"
+        android:title="Home"/>
+    <item
+        android:id="@+id/action_power"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_power_24"
+        android:title="Power"/>
+    <item
+        android:id="@+id/action_radio"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_radio_24"
+        android:title="Radio"/>
+    <item
+        android:id="@+id/action_see"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_local_see_24"
+        android:title="See"/>
 
 </menu>
