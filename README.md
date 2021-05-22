@@ -45,7 +45,7 @@
 * Very Simple Music Plyer Example <br>
 * Use MediaPlayer Class <br><br><br>
 
-### 13. Project Name : <a href="https://github.com/Enterprise09/Android_Study/tree/master/BottomNavExample"> BottomNavExample </a><br>
+### 13. Project Name : <a href="https://github.com/Enterprise09/Android_Study/tree/master/BottomNav"> BottomNav </a><br>
 * SNS Bottom Navigation Bar Example <br><br><br>
 
 ### 14. Project Name : <a href="https://github.com/Enterprise09/Android_Study/tree/master/ComeBackExample"> ComeBackExample </a><br>
