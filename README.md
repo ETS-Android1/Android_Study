@@ -1,11 +1,8 @@
-# Android_Study
+## Android_Study
 > Initialize 05.08 <br>
 > Minimum SDK Version : Oreo (Android 8) _ Level 26 <br>
 
 ------------------------------------------------------------
-
-## Content
- 1. [CameraExample] (#1.-Project-Name)
 
 ### 1. Project Name : <a href="https://github.com/Enterprise09/Android_Study/tree/master/CameraExample"> CameraExample</a> <br>
 * Use Camera Application in my Application <br><br><br>
