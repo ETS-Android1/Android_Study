@@ -21,7 +21,10 @@
   <component name="ChangeListManager">
     <list default="true" id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/drawable-v24/chrom_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/drawable-v24/chrome_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/drawable-v24/graychrom.png" beforeDir="false" afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/drawable-v24/gray_chrome.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/drawable/selector_button.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/drawable/selector_button.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/drawable/selector_button_img.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/drawable/selector_button_img.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/layout/activity_main.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

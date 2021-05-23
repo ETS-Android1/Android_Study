@@ -7,6 +7,10 @@
     android:layout_height="match_parent"
     tools:context=".MainActivity">
 
+    <!-- You have to Use  androidx.appcompat.widget.AppCompatButton -->
+    <!-- Because Button have Default Attribute that BackgroundTint
+     This Attribute Blocked Custom Selector that implement .xml File -->
+
     <androidx.appcompat.widget.AppCompatButton
         android:id="@+id/button"
         android:layout_width="200dp"
