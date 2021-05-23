@@ -20,10 +20,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/proguard-rules.pro" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/androidTest/java/com/example/buttonselectorexample/ExampleInstrumentedTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/java/com/example/buttonselectorexample/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/drawable/ic_launcher_background.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/mipmap-hdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/mipmap-hdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/mipmap-mdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/mipmap-mdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/mipmap-xhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/mipmap-xxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/values-night/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/values/colors.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/values/strings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/main/res/values/themes.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/app/src/test/java/com/example/buttonselectorexample/ExampleUnitTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/gradle.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ButtonSelectorExample/settings.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ComeBackExample/app/src/main/java/com/example/comebackexample/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComeBackExample/app/src/main/java/com/example/comebackexample/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ComeBackExample/app/src/main/java/com/example/comebackexample/SubActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ComeBackExample/app/src/main/java/com/example/comebackexample/SubActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ComeBackExample/app/src/main/res/layout/activity_sub.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ComeBackExample/app/src/main/res/layout/activity_sub.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -320,17 +351,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620460817782" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1621669127234">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1621671478848">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621669127234" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621671478848" />
     <state x="295" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620971990739">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="295" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620971990739" />
-    <state x="658" y="307" key="git4idea.merge.GitPullDialog" timestamp="1620972406730">
+    <state x="658" y="307" key="git4idea.merge.GitPullDialog" timestamp="1621769725966">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="658" y="307" key="git4idea.merge.GitPullDialog/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620972406730" />
+    <state x="658" y="307" key="git4idea.merge.GitPullDialog/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621769725966" />
   </component>
 </project>
