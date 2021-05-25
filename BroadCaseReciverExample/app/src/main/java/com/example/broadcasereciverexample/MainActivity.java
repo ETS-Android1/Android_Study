@@ -25,7 +25,13 @@ public class MainActivity extends AppCompatActivity {
         receiver = new NetworkReceiver();
         filter.addAction(WifiManager.NETWORK_STATE_CHANGED_ACTION);     //어떤 용도로 사용할지 Action를 추가해줌
         registerReceiver(receiver, filter);     //Start NetworkReceiver.java
+    }
 
+    @Override
+    protected void onDestroy() {
+        super.onDestroy();
 
+        //Release BroadCastReceiver
+        unregisterReceiver(receiver);
     }
 }
