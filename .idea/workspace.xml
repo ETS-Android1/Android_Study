@@ -20,8 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/BroadCaseReciverExample/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BroadCaseReciverExample/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/BroadCaseReciverExample/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/BroadCaseReciverExample/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BroadCaseReciverExample/app/src/main/java/com/example/broadcasereciverexample/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/BroadCaseReciverExample/app/src/main/java/com/example/broadcasereciverexample/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/BroadCaseReciverExample/app/src/main/java/com/example/broadcasereciverexample/NetworkReceiver.java" beforeDir="false" afterPath="$PROJECT_DIR$/BroadCaseReciverExample/app/src/main/java/com/example/broadcasereciverexample/NetworkReceiver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
