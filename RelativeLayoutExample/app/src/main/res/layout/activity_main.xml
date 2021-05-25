@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
@@ -7,12 +8,55 @@
     tools:context=".MainActivity">
 
     <TextView
+        android:id="@+id/tv_1"
+        android:layout_toLeftOf="@id/tv_2"
+        android:layout_above="@id/tv_2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintLeft_toLeftOf="parent"
-        app:layout_constraintRight_toRightOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        android:text="tv_1"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:textColor="#1633EC"/>
 
-</androidx.constraintlayout.widget.ConstraintLayout>
+    <TextView
+        android:id="@+id/tv_2"
+        android:layout_centerInParent="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="tv_2"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:textColor="#EC1616"/>
+
+    <TextView
+        android:id="@+id/tv_3"
+        android:layout_alignParentRight="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="tv_3"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:textColor="#ECCF16"/>
+
+    <TextView
+        android:id="@+id/tv_4"
+        android:layout_alignParentBottom="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="tv_4"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:textColor="#2BEC16"/>
+
+    <TextView
+        android:id="@+id/tv_5"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentBottom="true"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="tv_5"
+        android:textStyle="bold"
+        android:textSize="30sp"
+        android:textColor="#A116EC"/>
+
+</RelativeLayout>
