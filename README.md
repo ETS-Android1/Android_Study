@@ -59,4 +59,8 @@
 * Custom Button Effect <br>
 * Use androidx.appcompat.widget.AppCompatButton <br>
   * Because Button have Default Attribute that BackgroundTint <br>
-  * That Attribute Blocked Custom Selector that implement .xml File <br>
+  * That Attribute Blocked Custom Selector that implement .xml File <br><br><br>
+
+### 15. Project Name : <a href="https://github.com/Enterprise09/Android_Study/tree/master/RelativeLayoutxample"> RelativeLayoutxample </a><br>
+* Check Network State <br>
+* Use WifiManager & BroadCastReceiver & IntentFilter <br>
