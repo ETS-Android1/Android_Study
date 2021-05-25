@@ -14,10 +14,10 @@ public class NetworkReceiver extends BroadcastReceiver {
             NetworkInfo info = (NetworkInfo) intent.getParcelableExtra(WifiManager.EXTRA_NETWORK_INFO);
             NetworkInfo.DetailedState state = info.getDetailedState();
             if(state == NetworkInfo.DetailedState.CONNECTED){   //Connect State
-
+                MainActivity.tv_state.setText("Connecting Network");
             }
             else if(state == NetworkInfo.DetailedState.DISCONNECTED){   //DisConnect State
-
+                MainActivity.tv_state.setText("Disconnecting Network");
             }
         }
     }
