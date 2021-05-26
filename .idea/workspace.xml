@@ -20,11 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/EndLine_v1/app/src/main/java/com/example/endline_v1/ui/beauty/BeautyFragment.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EndLine_v1/app/src/main/java/com/example/endline_v1/ui/beauty/BeautyViewModel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EndLine_v1/app/src/main/res/layout/fragment_beauty.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EndLine_v1/app/src/main/res/layout/fragment_health.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/EndLine_v1/app/src/main/res/layout/fragment_medical.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EndLine_v1/app/src/main/java/com/example/endline_v1/ui/beauty/BeautyFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/EndLine_v1/app/src/main/java/com/example/endline_v1/ui/beauty/BeautyFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EndLine_v1/app/src/main/java/com/example/endline_v1/ui/beauty/BeautyViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/EndLine_v1/app/src/main/java/com/example/endline_v1/ui/beauty/BeautyViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EndLine_v1/app/src/main/java/com/example/endline_v1/ui/health/HealthFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/EndLine_v1/app/src/main/java/com/example/endline_v1/ui/health/HealthFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EndLine_v1/app/src/main/java/com/example/endline_v1/ui/health/HealthViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/EndLine_v1/app/src/main/java/com/example/endline_v1/ui/health/HealthViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EndLine_v1/app/src/main/java/com/example/endline_v1/ui/medical/MedicalFragment.java" beforeDir="false" afterPath="$PROJECT_DIR$/EndLine_v1/app/src/main/java/com/example/endline_v1/ui/medical/MedicalFragment.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EndLine_v1/app/src/main/java/com/example/endline_v1/ui/medical/MedicalViewModel.java" beforeDir="false" afterPath="$PROJECT_DIR$/EndLine_v1/app/src/main/java/com/example/endline_v1/ui/medical/MedicalViewModel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EndLine_v1/app/src/main/res/layout/fragment_beauty.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EndLine_v1/app/src/main/res/layout/fragment_beauty.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EndLine_v1/app/src/main/res/layout/fragment_health.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EndLine_v1/app/src/main/res/layout/fragment_health.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EndLine_v1/app/src/main/res/layout/fragment_medical.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EndLine_v1/app/src/main/res/layout/fragment_medical.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -356,10 +361,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620460817782" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1622039058768">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1622040674336">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1622039058768" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1622040674336" />
     <state x="295" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620971990739">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
