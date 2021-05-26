@@ -20,7 +20,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/EndLine_v1/app/src/main/res/drawable/ic_baseline_clean_hands_24.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/EndLine_v1/app/src/main/res/drawable/ic_baseline_food_bank_24.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EndLine_v1/app/src/main/java/com/example/endline_v1/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/EndLine_v1/app/src/main/java/com/example/endline_v1/MainActivity.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -277,7 +280,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621950493457</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Create EndLine_v1 Project">
+      <created>1622038370757</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1622038370757</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -293,7 +303,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="MainActivity Complete" />
     <MESSAGE value="Complete Project" />
     <MESSAGE value="Initialize pushTEST Project" />
     <MESSAGE value="Update After Delete pushTEST Project" />
@@ -318,13 +327,14 @@
     <MESSAGE value="Create RelativeLayout Project" />
     <MESSAGE value="Update Gradle" />
     <MESSAGE value="Create BroadCase Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create BroadCase Project" />
+    <MESSAGE value="Create EndLine_v1 Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create EndLine_v1 Project" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="531" y="33" key="CommitChangelistDialog2" timestamp="1621950491637">
+    <state x="531" y="33" key="CommitChangelistDialog2" timestamp="1622038368279">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="531" y="33" key="CommitChangelistDialog2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621950491637" />
+    <state x="531" y="33" key="CommitChangelistDialog2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1622038368279" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1620971990750">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -345,10 +355,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620460817782" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1621951740498">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1622039058768">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1621951740498" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1622039058768" />
     <state x="295" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620971990739">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
