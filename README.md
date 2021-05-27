@@ -71,8 +71,9 @@
 ### 18. Project Name : <a href="https://github.com/Enterprise09/Android_Study/tree/master/EndLine_v1"> EndLine_v1 </a><br>
 * Management Some Object Use QR-Code And Bar-Code <br>
 * Use Library
- * Zxing : Scan Code
- * Ted-Permission : Check Permission
- * Naver Search API : Search Code That Get Use Zxing In Internet
-<br><br><br>
+  > Zxing : Scan Code <br>
+  > Ted-Permission : Check Permission <br>
+  > Naver Search API : Search Code That Get Use Zxing In Internet <br>
+
+
 
