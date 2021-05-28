@@ -75,5 +75,11 @@
   > Ted-Permission : Check Permission <br>
   > Naver Search API : Search Code That Get Use Zxing In Internet <br>
 
+<br><br>
+### 19. Project Name : <a href="https://github.com/Enterprise09/Android_Study/tree/master/GoogleLoginExample"> GoogleLoginExample </a><br>
+* Simple Login Interface Use Google Account <br>
+* Befor Build This Project You have to Sync Gradle First <br>
+* Use Glide for Load Image Url <br><br><br>
+
 
 
