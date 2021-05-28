@@ -9,6 +9,7 @@ import android.widget.TextView;
 
 import com.bumptech.glide.Glide;
 
+//Display Login Information (User NickName & Profile Photo)
 public class ResultActivity extends AppCompatActivity {
 
     private TextView tv_result;

@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.O
                             Intent intent = new Intent(getApplicationContext(), ResultActivity.class);
                             intent.putExtra("nickName", account.getDisplayName().toString());
                             intent.putExtra("photoUrl", String.valueOf(account.getPhotoUrl()));     //Change to String
-                            startActivity(intent);
+                            startActivity(intent);      //Go to ResultActivity
                         }else{  //Login Fail
                             Toast.makeText(MainActivity.this, "Fail Login", Toast.LENGTH_SHORT).show();
                         }
