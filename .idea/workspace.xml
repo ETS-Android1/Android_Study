@@ -20,10 +20,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/EndLine_v1/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/EndLine_v1/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EndLine_v1/app/src/main/java/com/example/endline_v1/LoginFormActivity.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/EndLine_v1/app/src/main/java/com/example/endline_v1/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/EndLine_v1/app/src/main/java/com/example/endline_v1/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/EndLine_v1/app/src/main/res/layout/activity_login_form.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GoogleLoginExample/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/GoogleLoginExample/.idea/gradle.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +47,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/EndLine_v1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/GoogleLoginExample" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="SvnConfiguration">
@@ -294,7 +292,28 @@
       <option name="project" value="LOCAL" />
       <updated>1622174378143</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Delete LoginForm Activity For Module Construct">
+      <created>1622192629286</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1622192629286</updated>
+    </task>
+    <task id="LOCAL-00035" summary="Create Login Icon">
+      <created>1622199315644</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1622199315644</updated>
+    </task>
+    <task id="LOCAL-00036" summary="Add Login Menu Resource">
+      <created>1622199387456</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1622199387456</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -310,9 +329,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Initialize pushTEST Project" />
-    <MESSAGE value="Update After Delete pushTEST Project" />
-    <MESSAGE value="Update workspace.xml" />
     <MESSAGE value="Get Instance at MainActivity.java" />
     <MESSAGE value="Check NavigationBar_Customize" />
     <MESSAGE value="Update Android_Study Dir File" />
@@ -335,21 +351,24 @@
     <MESSAGE value="Create BroadCase Project" />
     <MESSAGE value="Create EndLine_v1 Project" />
     <MESSAGE value="Create GoogleLogin Project" />
-    <option name="LAST_COMMIT_MESSAGE" value="Create GoogleLogin Project" />
+    <MESSAGE value="Delete LoginForm Activity For Module Construct" />
+    <MESSAGE value="Create Login Icon" />
+    <MESSAGE value="Add Login Menu Resource" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Login Menu Resource" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="531" y="9" width="765" height="996" key="CommitChangelistDialog2" timestamp="1622174375694">
+    <state x="531" y="9" width="765" height="996" key="CommitChangelistDialog2" timestamp="1622199386203">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="531" y="9" width="765" height="996" key="CommitChangelistDialog2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1622174375694" />
+    <state x="531" y="9" width="765" height="996" key="CommitChangelistDialog2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1622199386203" />
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1620971990750">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620971990750" />
-    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1622174299241">
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1622196905494">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1622174299241" />
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1622196905494" />
     <state x="826" y="417" key="Github.ShareDialog" timestamp="1620461068898">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -362,10 +381,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1620460817782" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1622188816838">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1622192639030">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1622188816838" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1622192639030" />
     <state x="295" y="273" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1620971990739">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -374,5 +393,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="658" y="307" key="git4idea.merge.GitPullDialog/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1622091393414" />
+    <state x="774" y="414" key="git4idea.ui.GitResetDialog" timestamp="1622192566164">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="774" y="414" key="git4idea.ui.GitResetDialog/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1622192566164" />
   </component>
 </project>
