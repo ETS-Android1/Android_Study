@@ -61,6 +61,19 @@
   * Because Button have Default Attribute that BackgroundTint <br>
   * That Attribute Blocked Custom Selector that implement .xml File <br><br><br>
 
-### 15. Project Name : <a href="https://github.com/Enterprise09/Android_Study/tree/master/RelativeLayoutExample"> RelativeLayoutExample </a><br>
+### 16. Project Name : <a href="https://github.com/Enterprise09/Android_Study/tree/master/RelativeLayoutExample"> RelativeLayoutExample </a><br>
+* How to Use Relative Layout <br><br><br>
+
+### 17. Project Name : <a href="https://github.com/Enterprise09/Android_Study/tree/master/BroadCaseReciverExample"> BroadCaseReciverExample </a><br>
 * Check Network State <br>
-* Use WifiManager & BroadCastReceiver & IntentFilter <br>
+* Use WifiManager & BroadCastReceiver & IntentFilter <br><br><br>
+
+### 18. Project Name : <a href="https://github.com/Enterprise09/Android_Study/tree/master/EndLine_v1"> EndLine_v1 </a><br>
+* Management Some Object Use QR-Code And Bar-Code <br>
+* Use Library
+  > Zxing : Scan Code <br>
+  > Ted-Permission : Check Permission <br>
+  > Naver Search API : Search Code That Get Use Zxing In Internet <br>
+
+
+
