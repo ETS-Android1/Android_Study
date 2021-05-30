@@ -73,7 +73,8 @@
 * Use Library
   > Zxing : Scan Code <br>
   > Ted-Permission : Check Permission <br>
-  > Naver Search API : Search Code That Get Use Zxing In Internet <br>
+  > Naver Search API : Search Code That Get Use Zxing In Internet
+  > Glide : Load Image by URL Adress <br>
 
 <br><br>
 ### 19. Project Name : <a href="https://github.com/Enterprise09/Android_Study/tree/master/GoogleLoginExample"> GoogleLoginExample </a><br>
