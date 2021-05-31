@@ -58,8 +58,8 @@
 ### 15. Project Name : <a href="https://github.com/Enterprise09/Android_Study/tree/master/ButtonSelectorExample"> ButtonSelectorExample </a><br>
 * Custom Button Effect <br>
 * Use androidx.appcompat.widget.AppCompatButton <br>
-  * Because Button have Default Attribute that BackgroundTint <br>
-  * That Attribute Blocked Custom Selector that implement .xml File <br><br><br>
+  + Because Button have Default Attribute that BackgroundTint <br>
+  + That Attribute Blocked Custom Selector that implement .xml File <br><br><br>
 
 ### 16. Project Name : <a href="https://github.com/Enterprise09/Android_Study/tree/master/RelativeLayoutExample"> RelativeLayoutExample </a><br>
 * How to Use Relative Layout <br><br><br>
@@ -68,7 +68,9 @@
 * Check Network State <br>
 * Use WifiManager & BroadCastReceiver & IntentFilter <br><br><br>
 
-### 18. Project Name : <a href="https://github.com/Enterprise09/Android_Study/tree/master/EndLine_v1"> EndLine_v1 </a><br>
+---
+
+### 18. Team Project Name : <a href="https://github.com/Enterprise09/Android_Study/tree/master/EndLine_v1"> EndLine_v1 </a><br>
 * Management Some Object Use QR-Code And Bar-Code <br>
 * Use Library
   > Zxing : Scan Code <br>
@@ -76,7 +78,12 @@
   > Naver Search API : Search Code That Get Use Zxing In Internet
   > Glide : Load Image by URL Adress <br>
 
-<br><br>
+---
+
+
+<br>
+
+
 ### 19. Project Name : <a href="https://github.com/Enterprise09/Android_Study/tree/master/GoogleLoginExample"> GoogleLoginExample </a><br>
 * Simple Login Interface Use Google Account <br>
 * Befor Build This Project You have to Sync Gradle First <br>
