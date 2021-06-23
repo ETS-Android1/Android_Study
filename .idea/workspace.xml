@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="" />
+    <list default="true" id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/push_test/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/push_test/build.gradle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,7 +46,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/EndLine_v1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="SvnConfiguration">
@@ -310,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622199387456</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Create push_test Project">
+      <created>1624429413901</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1624429413901</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -326,7 +335,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Get Instance at MainActivity.java" />
     <MESSAGE value="Check NavigationBar_Customize" />
     <MESSAGE value="Update Android_Study Dir File" />
     <MESSAGE value="Delete app/IntroExample Project" />
@@ -351,7 +359,8 @@
     <MESSAGE value="Delete LoginForm Activity For Module Construct" />
     <MESSAGE value="Create Login Icon" />
     <MESSAGE value="Add Login Menu Resource" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Login Menu Resource" />
+    <MESSAGE value="Create push_test Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create push_test Project" />
   </component>
   <component name="WindowStateProjectService">
     <state x="531" y="9" width="765" height="996" key="CommitChangelistDialog2" timestamp="1622199386203">
