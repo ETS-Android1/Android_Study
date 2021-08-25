@@ -89,5 +89,10 @@
 * Befor Build This Project You have to Sync Gradle First <br>
 * Use Glide for Load Image Url <br><br><br>
 
+### 20. Project Name : <a href="https://github.com/Enterprise09/Android_Study/tree/master/FirestoreTest"> FirestoreTest </a><br>
+* Connect to Firebase Firestore
+* Put data to Firestore at realtime test
+* Get data easy
+
 
 
