@@ -13,6 +13,7 @@ import android.provider.MediaStore;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+import android.widget.EditText;
 import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
@@ -32,6 +33,7 @@ import com.google.firebase.storage.StorageReference;
 import com.google.firebase.storage.UploadTask;
 
 import java.io.IOException;
+import java.net.URI;
 import java.util.HashMap;
 import java.util.Map;
 import java.util.UUID;
@@ -41,10 +43,10 @@ public class MainActivity extends AppCompatActivity {
     FirebaseFirestore fstore = FirebaseFirestore.getInstance();
     FirebaseStorage fstorage = FirebaseStorage.getInstance();
     StorageReference storageRef = fstorage.getReference();
-    Map<String, Object> user = new HashMap<>();
+    Map<String, Object> product = new HashMap<>();
     Uri filePath;
     Button addBtn, readBtn, selectBtn;
-    TextView tv1, tv2, tv3;
+    EditText et1, et2, et3;
     ImageView iv;
 
     @Override
@@ -53,7 +55,6 @@ public class MainActivity extends AppCompatActivity {
         if(requestCode == 0 && resultCode == RESULT_OK && data != null &&data.getData() != null){
             filePath = data.getData();
             iv.setImageURI(filePath);
-            uploadFile();
         }
     }
 
@@ -90,9 +91,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        tv1 = (TextView) findViewById(R.id.textView1);
-        tv2 = (TextView) findViewById(R.id.textView2);
-        tv3 = (TextView) findViewById(R.id.textView3);
+        et1 = (EditText) findViewById(R.id.et1);
+        et2 = (EditText) findViewById(R.id.et2);
+        et3 = (EditText) findViewById(R.id.et3);
         iv = (ImageView) findViewById(R.id.iv);
 
         //upload data
@@ -100,11 +101,13 @@ public class MainActivity extends AppCompatActivity {
         addBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                user.put("first", "data1");
-                user.put("second", "data2");
-                user.put("third", "data3");
+                product.put("제품명", et1.getText().toString());
+                product.put("가격", et2.getText().toString());
+                product.put("요약정보", et3.getText().toString());
+                product.put("이미지 링크", filePath.toString());
 
-                fstore.collection("user").add(user).addOnSuccessListener(new OnSuccessListener<DocumentReference>() {
+
+                fstore.collection("product").add(product).addOnSuccessListener(new OnSuccessListener<DocumentReference>() {
                     @Override
                     public void onSuccess(DocumentReference documentReference) {
                         Log.d("Firestore", "Document Snapshot added with ID : " + documentReference.getId());
@@ -115,9 +118,9 @@ public class MainActivity extends AppCompatActivity {
                         Log.w("Firestore", "Error adding document", e);
                     }
                 });
-
-                uploadFile();
-
+                if(filePath != null){
+                    uploadFile();
+                }
             }
         });
 
@@ -140,15 +143,16 @@ public class MainActivity extends AppCompatActivity {
         readBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                fstore.collection("user").get().addOnCompleteListener(new OnCompleteListener<QuerySnapshot>() {
+                fstore.collection("product").get().addOnCompleteListener(new OnCompleteListener<QuerySnapshot>() {
                     @Override
                     public void onComplete(@NonNull Task<QuerySnapshot> task) {
                         if(task.isSuccessful()){
                             for(QueryDocumentSnapshot document : task.getResult()){
                                 Log.d("Firestore", document.getId() + " => " + document.getData());
-                                tv1.setText(document.get("first").toString());
-                                tv2.setText(document.get("second").toString());
-                                tv3.setText(document.get("third").toString());
+                                et1.setText(document.get("제품명").toString());
+                                et2.setText(document.get("가격").toString());
+                                et3.setText(document.get("요약정보").toString());
+                                iv.setImageURI(Uri.parse(document.get("이미지 링크").toString()));
                             }
                         }else{
                             Log.w("Firestore", "Error getting Document", task.getException());
