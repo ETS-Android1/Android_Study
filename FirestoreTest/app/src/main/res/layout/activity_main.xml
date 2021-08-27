@@ -17,27 +17,27 @@
 
         <Button
             android:id="@+id/readBtn"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_margin="5dp"
+            android:layout_margin="3dp"
             android:layout_weight="1"
-            android:text="READ Button" />
+            android:text="보기" />
 
         <Button
             android:id="@+id/selectBtn"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_margin="5dp"
+            android:layout_margin="3dp"
             android:layout_weight="1"
             android:text="사진선택" />
 
         <Button
             android:id="@+id/addBtn"
-            android:layout_width="wrap_content"
+            android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_margin="5dp"
+            android:layout_margin="3dp"
             android:layout_weight="1"
-            android:text="ADD Button" />
+            android:text="Upload" />
     </LinearLayout>
 
 
@@ -52,23 +52,26 @@
         app:layout_constraintTop_toBottomOf="@+id/linearLayout2">
 
         <EditText
-            android:id="@+id/textView3"
+            android:id="@+id/et1"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:hint="제품명"
             android:layout_margin="5dp"
             android:layout_weight="1" />
 
         <EditText
-            android:id="@+id/textView2"
+            android:id="@+id/et2"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:hint="가격"
             android:layout_margin="5dp"
             android:layout_weight="1" />
 
         <EditText
-            android:id="@+id/textView1"
+            android:id="@+id/et3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:hint="요약정보"
             android:layout_margin="5dp"
             android:layout_weight="1" />
 
