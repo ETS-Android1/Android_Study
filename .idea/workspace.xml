@@ -19,9 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="400f7c22-3af9-4d1a-9aa5-36ce32350c79" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,7 +44,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/EndLine_v1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="project.propVCSSupport.CommitDialog" />
   </component>
   <component name="SvnConfiguration">
@@ -392,17 +390,15 @@
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1631069138098">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="592" y="207" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1622547469322" />
     <state x="740" y="261" key="FileChooserDialogImpl/1920.0.2560.1400/0.0.1920.1040@0.0.1920.1040" timestamp="1631069138098" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1629869806371">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="442" y="200" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1622526313491" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.154.1360.728@0.0.1920.1040" timestamp="1624429419066" />
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/1920.0.2560.1400/0.0.1920.1040@0.0.1920.1040" timestamp="1629869806371" />
-    <state x="526" y="243" key="git4idea.merge.GitPullDialog" timestamp="1622446362529">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="774" y="414" key="git4idea.ui.GitResetDialog" timestamp="1631373183597">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="526" y="243" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1622446362529" />
+    <state x="774" y="414" key="git4idea.ui.GitResetDialog/1920.0.2560.1400/0.0.1920.1040@0.0.1920.1040" timestamp="1631373183597" />
   </component>
 </project>
