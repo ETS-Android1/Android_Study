@@ -120,3 +120,5 @@
 - push notification to user
 - android version up to oreo(8.0)
 - should be create notification channel
+- Firebase Cloud Messaging success!
+- FCM SDK version have to 17.0.0
