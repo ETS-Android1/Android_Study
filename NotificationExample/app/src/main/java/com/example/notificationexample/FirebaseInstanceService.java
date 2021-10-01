@@ -9,7 +9,6 @@ public class FirebaseInstanceService extends FirebaseInstanceIdService {
 
     @Override
     public void onTokenRefresh() {
-//        super.onTokenRefresh();
         String refreshToken = FirebaseInstanceId.getInstance().getToken();
         Log.d("onToken", "Refresh token : " + refreshToken);
     }

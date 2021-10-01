@@ -15,8 +15,6 @@ import com.google.firebase.messaging.RemoteMessage;
 public class FirebaseMessagingService extends com.google.firebase.messaging.FirebaseMessagingService {
     @Override
     public void onMessageReceived(RemoteMessage remoteMessage) {
-//        super.onMessageReceived(remoteMessage);
-//        Toast.makeText(this, remoteMessage.getFrom().toString(), Toast.LENGTH_SHORT).show();
         Log.d("onMessageReceived", remoteMessage.getFrom());
 
         String title = remoteMessage.getNotification().getTitle();
@@ -24,18 +22,6 @@ public class FirebaseMessagingService extends com.google.firebase.messaging.Fire
 
         Intent intent = new Intent(this, MainActivity.class);
         intent.addFlags(Intent.FLAG_ACTIVITY_CLEAR_TOP);
-
-//        PendingIntent contentIntent = PendingIntent.getActivity(this, 0, new Intent(this, MainActivity.class), 0);
-//
-//        NotificationCompat.Builder builder = new NotificationCompat.Builder(this)
-//                .setSmallIcon(R.drawable.ic_launcher_background)
-//                .setContentTitle(title)
-//                .setContentText(msg)
-//                .setAutoCancel(true);
-//
-//        NotificationManager notificationManager = (NotificationManager) getSystemService(Context.NOTIFICATION_SERVICE);
-//        notificationManager.notify(0, builder.build());
-//        builder.setContentIntent(contentIntent);
 
         createNotificationChannel("FCM", "FCM channel", NotificationManager.IMPORTANCE_HIGH);
         createNotification("FCM", 1, title, msg, intent);
