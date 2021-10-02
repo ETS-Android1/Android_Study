@@ -62,6 +62,7 @@ public class MainActivity extends AppCompatActivity {
         notificationManager.notify(id, builder.build());
     }
 
+    //Why it hear?
     void destroyNotification(int id){
         NotificationManager notificationManager = (NotificationManager) getSystemService(NOTIFICATION_SERVICE);
         notificationManager.cancel(id);
