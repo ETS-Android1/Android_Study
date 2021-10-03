@@ -30,11 +30,14 @@ import com.google.firebase.auth.GoogleAuthProvider;
 public class MainActivity extends AppCompatActivity implements FirebaseAuth.AuthStateListener {
 
     Button btn_login;
+    FirebaseAuth auth;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        auth = FirebaseAuth.getInstance();
 
         btn_login = (Button) findViewById(R.id.btn_login);
         btn_login.setOnClickListener(new View.OnClickListener() {
@@ -43,15 +46,25 @@ public class MainActivity extends AppCompatActivity implements FirebaseAuth.Auth
                 startActivity(new Intent(MainActivity.this, LoginActivity.class));
             }
         });
+    }
 
+    @Override
+    protected void onStart() {
+        super.onStart();
+        auth.addAuthStateListener(this);
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+        auth.removeAuthStateListener(this);
     }
 
     @Override
     public void onAuthStateChanged(@NonNull FirebaseAuth firebaseAuth) {
         FirebaseUser user = firebaseAuth.getCurrentUser();
         if(user != null){   //로그인 기록 있음
-            Toast.makeText(getApplicationContext(), "로그인 상태", Toast.LENGTH_SHORT).show();
-            Log.d("USER ID", "==> " + user.getIdToken(true));
+            Toast.makeText(getApplicationContext(), "USER ID : " + user.getDisplayName(), Toast.LENGTH_SHORT).show();
         }else {     //최근 로그인 기록 없음
             Intent intent = new Intent(this, LoginActivity.class);
             startActivity(intent);
