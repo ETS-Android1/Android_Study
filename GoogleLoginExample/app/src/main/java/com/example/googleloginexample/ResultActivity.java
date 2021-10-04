@@ -4,6 +4,7 @@ import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.content.Intent;
+import android.net.Uri;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -28,8 +29,8 @@ public class ResultActivity extends AppCompatActivity implements FirebaseAuth.Au
 
         auth = FirebaseAuth.getInstance();
         Intent intent = getIntent();
-        String nickName = intent.getStringExtra("nickName");
-        String photoUrl = intent.getStringExtra("photoUrl");
+//        String nickName = intent.getStringExtra("nickName");
+//        String photoUrl = intent.getStringExtra("photoUrl");
 
         tv_result = (TextView) findViewById(R.id.tv_result);
         iv_profile = (ImageView) findViewById(R.id.iv_pofile);
@@ -42,8 +43,8 @@ public class ResultActivity extends AppCompatActivity implements FirebaseAuth.Au
             }
         });
 
-        tv_result.setText(nickName);
-        Glide.with(this).load(photoUrl).into(iv_profile);   //Display Profile Photo
+        tv_result.setText(auth.getCurrentUser().getDisplayName());
+        Glide.with(this).load(Uri.parse(auth.getCurrentUser().getPhotoUrl().toString())).into(iv_profile);
     }
 
     @Override
@@ -61,7 +62,7 @@ public class ResultActivity extends AppCompatActivity implements FirebaseAuth.Au
     @Override
     public void onAuthStateChanged(@NonNull FirebaseAuth firebaseAuth) {
         if(firebaseAuth.getCurrentUser() == null){
-            startActivity(new Intent(getApplicationContext(), LoginActivity.class));
+            startActivity(new Intent(getApplicationContext(), MainActivity.class));
         }
         return;
     }
