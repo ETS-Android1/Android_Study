@@ -8,6 +8,7 @@ import org.json.JSONObject;
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
 import java.io.InputStream;
+import java.io.InputStreamReader;
 import java.io.OutputStream;
 import java.io.OutputStreamWriter;
 import java.net.HttpURLConnection;
@@ -45,6 +46,7 @@ public class ConnectServerTask extends AsyncTask<String, String, String> {
                 writer.close();
 
                 InputStream inputStream = conn.getInputStream();
+                reader = new BufferedReader(new InputStreamReader(inputStream));
                 StringBuffer buffer = new StringBuffer();
                 String line = "";
                 while ((line = reader.readLine()) != null){
