@@ -7,9 +7,11 @@ import com.google.firebase.iid.FirebaseInstanceIdService;
 
 public class FirebaseInstanceService extends FirebaseInstanceIdService {
 
+    private static final String TAG = "onToken";
+
     @Override
     public void onTokenRefresh() {
         String refreshToken = FirebaseInstanceId.getInstance().getToken();
-        Log.d("onToken", "Refresh token : " + refreshToken);
+        Log.d(TAG, "Refresh token : " + refreshToken);
     }
 }
