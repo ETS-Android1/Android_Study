@@ -18,6 +18,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.bumptech.glide.Glide;
 import com.google.firebase.FirebaseApp;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
@@ -46,6 +47,7 @@ public class MainActivity extends AppCompatActivity {
             Log.d("USER INFO", user.getUid());
             Toast.makeText(this, user.getUid(), Toast.LENGTH_LONG).show();
             tv_displayName.setText(user.getUid());
+            Glide.with(this).load(user.getPhotoUrl()).into(iv_profile);
         }else{
             Log.w("USER INFO", "Error");
             Toast.makeText(this, "Error", Toast.LENGTH_LONG).show();
