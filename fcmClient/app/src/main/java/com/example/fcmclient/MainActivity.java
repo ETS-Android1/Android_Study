@@ -26,7 +26,7 @@ public class MainActivity extends AppCompatActivity {
                 if(token != null){
                     Log.d("TOKEN", token);
                     ConnectServerTask serverTask = new ConnectServerTask();
-                    serverTask.execute("http://192.168.0.11:3000/registe", token);
+                    serverTask.execute("http://192.168.0.11:3000/register", token);
                 }else{
                     Log.w("TOKEN", "NULL");
                 }
