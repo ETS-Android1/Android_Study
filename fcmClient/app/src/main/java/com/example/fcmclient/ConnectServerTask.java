@@ -23,9 +23,9 @@ public class ConnectServerTask extends AsyncTask<String, String, String> {
         Log.d(TAG, "doInBackground");
         try{
             JSONObject object = new JSONObject();
-            object.accumulate("user_id", "android");
+            object.accumulate("user_uid", strings[1]);
             object.accumulate("user_name", "Enterprise09");
-            object.accumulate("user_token", strings[1]);
+            object.accumulate("user_token", strings[2]);
 
             HttpURLConnection conn = null;
             BufferedReader reader = null;
