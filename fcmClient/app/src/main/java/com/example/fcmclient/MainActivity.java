@@ -9,8 +9,11 @@ import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
+import android.widget.ImageView;
+import android.widget.TextView;
 import android.widget.Toast;
 
+import com.bumptech.glide.Glide;
 import com.google.android.gms.auth.api.Auth;
 import com.google.android.gms.auth.api.signin.GoogleSignInAccount;
 import com.google.android.gms.auth.api.signin.GoogleSignInOptions;
@@ -33,7 +36,9 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.O
     private FirebaseAuth auth;
     private GoogleSignInOptions googleSignInOptions;
     private GoogleApiClient apiClient;
-    private Button btn_registe;
+    private Button btn_registe, btn_signout;
+    private TextView tv_name;
+    private ImageView iv_profile;
 
     private static final int REQ_GOOGLE_LOGIN = 1000;
 
@@ -41,6 +46,10 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.O
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
+
+        tv_name = (TextView) findViewById(R.id.tv_name);
+        iv_profile = (ImageView) findViewById(R.id.iv_profile);
+        btn_signout = (Button) findViewById(R.id.btn_signout);
 
         auth = FirebaseAuth.getInstance();
         googleSignInOptions = new GoogleSignInOptions.Builder(GoogleSignInOptions.DEFAULT_SIGN_IN)
@@ -76,6 +85,14 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.O
                 }
             }
         });
+
+        btn_signout.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View view) {
+                auth.signOut();
+                btn_google.setVisibility(View.VISIBLE);
+            }
+        });
     }
 
     @Override
@@ -103,8 +120,10 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.O
                             // Sign in success, update UI with the signed-in user's information
                             Log.d("Credential", "signInWithCredential:success");
                             FirebaseUser user = auth.getCurrentUser();
+                            tv_name.setText(user.getDisplayName());
+                            Glide.with(getApplicationContext()).load(user.getPhotoUrl()).into(iv_profile);
+                            btn_google.setVisibility(View.GONE);
                             Toast.makeText(getApplicationContext(), user.getDisplayName() + "님 환영합니다.", Toast.LENGTH_SHORT).show();
-
                         } else {
                             // If sign in fails, display a message to the user.
                             Log.w("Credential", "signInWithCredential:failure", task.getException());
